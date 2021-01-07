@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10'a PHP için geliştirme ortamı hazırlama](https://medium.com/@isaeken/windows-10a-php-i%C3%A7in-geli%C5%9Ftirme-ortam%C4%B1-haz%C4%B1rlama-de5011de4521?source=rss-c52dcbf31943------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
