@@ -6,6 +6,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel’de public klasörünün adını değiştirme](https://medium.com/@isaeken/laravelde-public-klas%C3%B6r%C3%BCn%C3%BCn-ad%C4%B1n%C4%B1-de%C4%9Fi%C5%9Ftirme-b945228d8b5?source=rss-c52dcbf31943------2)
 - [PHP 8 ile gelen yenilikler](https://medium.com/@isaeken/php-8-ile-gelen-yenilikler-7469e75dfbc5?source=rss-c52dcbf31943------2)
 - [Windows’a Composer Kurulumu](https://medium.com/@isaeken/windowsa-composer-kurulumu-b657bd088fdd?source=rss-c52dcbf31943------2)
 - [Windows 10'a PHP için geliştirme ortamı hazırlama](https://medium.com/@isaeken/windows-10a-php-i%C3%A7in-geli%C5%9Ftirme-ortam%C4%B1-haz%C4%B1rlama-de5011de4521?source=rss-c52dcbf31943------2)
