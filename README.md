@@ -1,4 +1,4 @@
-### Howdy! İsa here. <a href="https://www.isaeken.com.tr/" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></a>
+### Howdy! İsa here. <a href="https://www.isaeken.com.tr/" target="_blank"><img src="https://raw.githubusercontent.com/isaeken/isaeken/main/giphy.webp" width="25px" /></a>
 #### I'm a Full-Stack Developer living in Ankara, Turkey.
 
 ````php
