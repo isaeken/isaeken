@@ -6,8 +6,10 @@
 
 namespace IsaEken;
 
-class About extends Me
+class About extends Me implements Person
 {
+    use PhpStorm, PyCharm, Windows, MacOs, Linux;
+
     public const pronouns = [ 'he', 'him' ];
     
     public function getKnowledge(): array
@@ -18,6 +20,9 @@ class About extends Me
             JavaScript::class,
             TailwindCss::class,
             Electron::class,
+            React::class,
+            ReactNative::class,
+            UnrealEngine5::class,
         ];
     }
 }
