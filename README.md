@@ -10,8 +10,6 @@ class About extends Me implements Person
 {
     use PhpStorm, PyCharm, Windows, MacOs, Linux;
 
-    public const pronouns = [ 'he', 'him' ];
-    
     public function getKnowledge(): array
     {
         return [
