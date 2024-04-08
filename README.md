@@ -8,20 +8,24 @@ namespace IsaEken;
 
 class About extends Me implements Person
 {
-    use PhpStorm, PyCharm, Windows, MacOs, Linux;
+    use PhpStorm, MacOs, Linux;
 
     public function getKnowledge(): array
     {
         return [
-            Php::class,
+            Ros::class,
             Laravel::class,
-            JavaScript::class,
-            TailwindCss::class,
+            TypeScript::class,
+            Tailwind::class,
             Electron::class,
             React::class,
             ReactNative::class,
             Vite::class,
-            UnrealEngine5::class,
+            UnrealEngine::class,
+            CSharp::class,
+            Java::class,
+            Kotlin::class,
+            Swift::class,
         ];
     }
 }
