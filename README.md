@@ -20,12 +20,6 @@ class About extends Me implements Person
             Electron::class,
             React::class,
             ReactNative::class,
-            Vite::class,
-            UnrealEngine::class,
-            CSharp::class,
-            Java::class,
-            Kotlin::class,
-            Swift::class,
         ];
     }
 }
